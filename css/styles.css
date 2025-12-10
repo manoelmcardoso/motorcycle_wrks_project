@@ -19,6 +19,10 @@ body{
     width: 210px;
 }
 
+#cont_end{
+    width: 450px; /* Largura fixa */
+    height: 300px; /* Altura fixa */
+}
 .rodape{
     position: absolute;
     bottom: 0%;
